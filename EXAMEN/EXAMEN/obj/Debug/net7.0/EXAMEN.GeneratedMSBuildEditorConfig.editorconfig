@@ -1,0 +1,43 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EXAMEN
+build_property.RootNamespace = EXAMEN
+build_property.ProjectDir = C:\Users\brixg\OneDrive\Escritorio\EXAMEN\EXAMEN\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\brixg\OneDrive\Escritorio\EXAMEN\EXAMEN
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/inicio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xpbmljaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/inicio/privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xpbmljaW9ccHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/Mecanico/BuscarMecanico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xNZWNhbmljb1xCdXNjYXJNZWNhbmljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/Mecanico/CrearMecanico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xNZWNhbmljb1xDcmVhck1lY2FuaWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/Mecanico/EditarMecanico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xNZWNhbmljb1xFZGl0YXJNZWNhbmljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/brixg/OneDrive/Escritorio/EXAMEN/EXAMEN/view/Shared/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld1xTaGFyZWRcZXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,8 @@
+INSERT INTO producto (NombreProducto, CodigoBarra, Marca, Categoria, Precio)
+VALUES
+('Producto1ID_Producto', '1234567890123', 'MarcaA', 'Electrónicos', 599.99),
+('Producto2', '9876543210987', 'MarcaB', 'Ropa', 39.95),
+('Producto3', '2345678901234', 'MarcaC', 'Alimentos', 5.99),
+('Producto4', '3456789012345', 'MarcaD', 'Hogar', 129.99),
+('Producto5', '4567890123456', 'MarcaE', 'Electrodomésticos', 799.99);
+
